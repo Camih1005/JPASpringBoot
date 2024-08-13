@@ -1,0 +1,3 @@
+-- insert into Person (name, lastName,programmingLanguage) values("pedro","potacio","java");
+-- insert into Person (name, lastName,programmingLanguage) values("camilo","pancracio","phyton");
+-- insert into Person (name, lastName,programmingLanguage) values("patricio","estrella","js");
